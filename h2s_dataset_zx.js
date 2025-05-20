@@ -1,4 +1,4 @@
-var h2sDataset_zh = [
+var h2sDataset_zx = [
   [
     "时间",
     "硫化氢浓度(ppm)"
